@@ -1,5 +1,5 @@
 /**
- * @name guh steam
+ * @name guhsteam
  * @author maenDisease
  * @version 1.0.0
  * @description Steam UI on Discord.
@@ -15,8 +15,8 @@
 :root {
   --hue-shift: 0;
   --content-width: 100%;
-  --message-width: 640px;
-  --server-size: 28px;
+  --message-width: 100%;
+  --server-size: 55px;
   --custom-font: gg sans;
   --custom-font-code: monospace;
 }
